@@ -7,5 +7,5 @@ Remember to create a virtual environment to run the project.
 
 ## Summary
 1. Using Django Forms
-    Branches
-    *forms
+Branches
+*forms
