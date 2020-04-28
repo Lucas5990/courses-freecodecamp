@@ -1,4 +1,4 @@
-# courses-origamid
+# courses-freecodecamp
 Cursos de desenvolvimento front-end da freeCodeCamp.
 https://www.freecodecamp.org/
 
