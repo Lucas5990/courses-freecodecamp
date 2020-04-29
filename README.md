@@ -37,3 +37,22 @@ https://www.freecodecamp.org/
 - [ ] 01 - Data Visualization with D3
 - [ ] 02 - JSON APIs and Ajax
 - [ ] 03 - Data Visualization Projects 
+
+## APIs and Microservices
+- [ ] 01 - Managing Packages with NPM
+- [ ] 02 - Basic Node and Express
+- [ ] 03 - MongoDB and Mongoose 
+- [ ] 04 - APIs and Microservices Projects 
+
+## Information Security and Quality Assurance
+- [ ] 01 - Information Security with HelmetJS
+- [ ] 02 - Quality Assurance and Testing with Chai
+- [ ] 03 - Advanced Node and Express
+- [ ] 04 - Information Security and Quality Assurance Projects 
+
+## Coding Interview Prep (Thousands of hours of challenges)
+- [ ] 01 - Algorithms
+- [ ] 02 - Data Structures
+- [ ] 03 - Take Home Projects
+- [ ] 04 - Rosetta Code 
+- [ ] 05 - Project Euler 
